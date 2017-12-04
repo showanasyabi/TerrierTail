@@ -6,7 +6,7 @@
  *        File: common/csched_credit.c
  *      Authors: Esmail Asyabi - Alireza Sanaee
  *
- * Description: TerrierTail: a hypervsior CPU scheduler ti mitigate tail latency of VMs
+ * Description: TerrierTail: a hypervisor  CPU scheduler to mitigate tail latency of VMs
  */
 
 #include <xen/config.h>
